@@ -1,0 +1,38 @@
+h1 {
+	color: orangered;
+}
+
+h2 {color: cadetblue;} 
+
+p {color: darkgreen;}
+img {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+body {
+	background: darkgoldenrod;
+
+}
+
+.link-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 3%;
+	border: 2px solid darkred;
+}
+div {
+ background: beige;
+}
+
+a:hover {
+	color: darkgoldenrod;
+}
+
+.video-center {
+	text-align: center;
+}
+
+.elements-aligned {
+	text-align: center;
+}
